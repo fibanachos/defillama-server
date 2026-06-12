@@ -1,4 +1,11 @@
 {
+  "cookiechain": {
+    "So11111111111111111111111111111111111111112": {
+      "decimals": "9",
+      "symbol": "COOK",
+      "to": "asset#solana:36ZrtQoab5MhhySaP1YSTwUahSk6GRVUTtZ6cuVfm9e1"
+    }
+  },
   "canto": {
     "0xfb8255f0de21acebf490f1df6f0bdd48cc1df03b": {
       "decimals": "6",
