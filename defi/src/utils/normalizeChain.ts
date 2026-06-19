@@ -6176,6 +6176,7 @@ export const chainCoingeckoIds = {
     geckoId: "cookie-2",
     symbol: "COOK",
     cmcId: null,
+    categories: ["SVM"],
     twitter: "TheCookieChain",
     url: "https://www.cookiechain.wtf/",
   },
